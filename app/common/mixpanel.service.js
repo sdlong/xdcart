@@ -1,6 +1,6 @@
 'use strict';
 
-var apiKey = "<YOUR API KEY>";
+var apiKey = "40023b9e8ba94a250120b01011d39bd1";
 
 angular.module('analytics.mixpanel')
 
